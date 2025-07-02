@@ -187,7 +187,3 @@ export async function exportToArchive(name: string, data: object, typeArchive: s
         return "Error exporting to archive: " + error;
     }
 }
-
-export async function exportCanvas(){
-    
-}
