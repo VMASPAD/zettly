@@ -36,7 +36,17 @@ Zettly is a cross-platform note-taking application built with Tauri, React, and 
 - The Canvas view allows drawing and exporting visual notes.
 - The Markdown view provides a live preview/editor for Markdown files.
 
+## Views
+
+![(1)](https://github.com/user-attachments/assets/671b2ca2-52f9-4528-8edc-f23d9fd9d246)
+![(5)](https://github.com/user-attachments/assets/91465b81-39fc-47b8-8173-b829522c8a2b)
+![(4)](https://github.com/user-attachments/assets/3b9ee1c7-bbb1-4067-ae97-6291222deec5)
+![(3)](https://github.com/user-attachments/assets/267aa26e-d23b-4c4e-91cb-8bb4ce83a7f1)
+![(2)](https://github.com/user-attachments/assets/385dc8ee-80b5-49c6-bfe0-d0ca5807e93d)
+
+
 ## Getting Started
+
 
 1. **Install dependencies**:
    ```sh
